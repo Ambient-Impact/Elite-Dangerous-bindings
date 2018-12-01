@@ -462,7 +462,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</EngineColourToggle>
 	<NightVisionToggle>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_End" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</NightVisionToggle>
 	<UIFocus>

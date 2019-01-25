@@ -31,7 +31,7 @@ My Elite Dangerous bindings. I mostly play using the keyboard, with the mouse fo
 
 ## Flight miscellaneous
 * Toggle flight assist: Numpad 0
-* Engine boost: Delete / Mouse 5 (back button)
+* Engine boost: Delete / Mouse 5
 * Toggle frame shift drive: J
 * Supercruise: I
 * Toggle orbit lines: O

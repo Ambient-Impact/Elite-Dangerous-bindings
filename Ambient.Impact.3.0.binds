@@ -1333,7 +1333,7 @@
 		<Inverted Value="0" />
 		<Deadzone Value="0.00000000" />
 	</ExplorationFSSRadioTuningAbsoluteX>
-	<FSSTuningSensitivity Value="0.49797589" />
+	<FSSTuningSensitivity Value="0.97400439" />
 	<ExplorationFSSDiscoveryScan>
 		<Primary Device="Keyboard" Key="Key_Space" />
 		<Secondary Device="{NoDevice}" Key="" />

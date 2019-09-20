@@ -1240,6 +1240,32 @@
 		<Primary Device="Keyboard" Key="Key_Home" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</FStopInc>
+	<StoreEnableRotation>
+		<Primary Device="Mouse" Key="Mouse_2" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</StoreEnableRotation>
+	<StorePitchCamera>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</StorePitchCamera>
+	<StoreYawCamera>
+		<Binding Device="{NoDevice}" Key="" />
+		<Inverted Value="0" />
+		<Deadzone Value="0.00000000" />
+	</StoreYawCamera>
+	<StoreCamZoomIn>
+		<Primary Device="Keyboard" Key="Key_Equals" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</StoreCamZoomIn>
+	<StoreCamZoomOut>
+		<Primary Device="Keyboard" Key="Key_Minus" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</StoreCamZoomOut>
+	<StoreToggle>
+		<Primary Device="Keyboard" Key="Key_P" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</StoreToggle>
 	<CommanderCreator_Undo>
 		<Primary Device="Keyboard" Key="Key_PageUp" />
 		<Secondary Device="{NoDevice}" Key="" />

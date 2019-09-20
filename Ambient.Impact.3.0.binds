@@ -1348,7 +1348,7 @@
 	<FSSMouseYDecay Value="1" />
 	<FSSMouseSensitivity Value="40.00000000" />
 	<FSSMouseDeadzone Value="0.00000000" />
-	<FSSMouseLinearity Value="1.00000000" />
+	<FSSMouseLinearity Value="1.23399997" />
 	<ExplorationFSSTarget>
 		<Primary Device="Keyboard" Key="Key_T" />
 		<Secondary Device="{NoDevice}" Key="" />

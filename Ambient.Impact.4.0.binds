@@ -1389,11 +1389,11 @@
 		<Deadzone Value="0.00000000" />
 	</SAAThirdPersonYawAxisRaw>
 	<SAAThirdPersonYawLeftButton>
-		<Primary Device="Keyboard" Key="Key_Q" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</SAAThirdPersonYawLeftButton>
 	<SAAThirdPersonYawRightButton>
-		<Primary Device="Keyboard" Key="Key_E" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</SAAThirdPersonYawRightButton>
 	<SAAThirdPersonPitchAxisRaw>
@@ -1402,11 +1402,11 @@
 		<Deadzone Value="0.00000000" />
 	</SAAThirdPersonPitchAxisRaw>
 	<SAAThirdPersonPitchUpButton>
-		<Primary Device="Keyboard" Key="Key_S" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</SAAThirdPersonPitchUpButton>
 	<SAAThirdPersonPitchDownButton>
-		<Primary Device="Keyboard" Key="Key_W" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</SAAThirdPersonPitchDownButton>
 	<SAAThirdPersonFovAxisRaw>

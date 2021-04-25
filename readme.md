@@ -3,7 +3,10 @@ My Elite Dangerous bindings. I mostly play using the keyboard, with the mouse fo
 o7
 
 # Installation
+
 Place in ```C:\Users\<user name>\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings```
+
+Note that the game won't recognize the new bindings if it's already running, so do this before you start the game or restart it if it's already running.
 
 # Bindings
 

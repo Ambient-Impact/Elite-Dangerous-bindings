@@ -59,3 +59,82 @@ Engine boost              | Delete        | Mouse 5
 Toggle frame shift drive  | J
 Supercruise               | I
 Toggle orbit lines        | O
+
+
+## Targeting
+
+Action                        | Primary bind  | Secondary bind
+------------------------------|---------------|----------------
+Select target ahead           | T
+Cycle next target             | G
+Select highest threat         | H
+Cycle next hostile target     | Tab
+Cycle previous hostile target | Right shift
+Select wingman 1              | Numpad 1
+Select wingman 2              | Numpad 2
+Select wingman 3              | Numpad 3
+Select wingman's target       | Y
+Cycle next subsystem          | .
+Cycle previous subsystem      | ,
+Target next system in route   | K
+
+## Weapons
+
+Action                | Primary bind  | Secondary bind
+----------------------|---------------|----------------
+Primary fire          | Space / Mouse 1
+Secondary fire        | Left shift / Mouse 2
+Cycle next fire group | V
+Deploy hardpoints     | U
+
+## Cooling
+
+Action          | Primary bind  | Secondary bind
+----------------|---------------|----------------
+Silent running  | Numpad -
+Deploy heatsink | Numpad enter
+
+## Miscellaneous
+
+Action                      | Primary bind  | Secondary bind
+----------------------------|---------------|----------------
+Ship lights                 | Insert
+Increase sensor zoom        | Page up
+Decrease sensor zoom        | Page down
+Divert power to engines     | Numpad 8
+Divert power to weapons     | Numpad 6
+Divert power to systems     | Numpad 4
+Balance power distribution  | Numpad 5
+Cargo scoop                 | Home
+Landing gear                | L
+Use shield cell             | Z
+Use chaff launder           | C
+Night vision                | End
+
+## Mode switches
+
+Action              | Primary bind  | Secondary bind
+--------------------|---------------|----------------
+External panel      | 1
+Comms panel         | 2
+Quick comms         | Enter
+Role panel          | 3
+Internal panel      | 4
+Open galaxy map     | N
+Open system map     | M
+Headlook (toggle)   | Mouse 4
+Open discovery      | Right ctrl
+Switch cockpit mode | Right alt
+Enter FSS mode      | P
+
+## Interface mode
+
+Action              | Primary bind  | Secondary bind
+--------------------|---------------|----------------
+UI panel up         | W
+UI panel down       | S
+UI panel left       | A
+UI panel right      | D
+UI panel select     | Space
+Next panel tab      | E
+Previous panel tab  | Q

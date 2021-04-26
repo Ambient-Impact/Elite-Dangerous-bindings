@@ -82,8 +82,8 @@ Target next system in route   | K
 
 Action                | Primary bind  | Secondary bind
 ----------------------|---------------|----------------
-Primary fire          | Space / Mouse 1
-Secondary fire        | Left shift / Mouse 2
+Primary fire          | Space         | Mouse 1
+Secondary fire        | Left shift    | Mouse 2
 Cycle next fire group | V
 Deploy hardpoints     | U
 

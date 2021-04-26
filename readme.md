@@ -34,8 +34,8 @@ Thrust down   | F
 
 Action            | Primary bind  | Secondary bind
 ------------------|---------------|-------------------
-Increase throttle | ↑ Up arrow    | Mouse scroll up
-Decrease throttle | ↓ Down arrow  | Mouse scroll down
+Increase throttle | ↑ Up arrow    | 🖱 Mouse scroll up
+Decrease throttle | ↓ Down arrow  | 🖱 Mouse scroll down
 Set speed to 0%   | X
 Set speed to 50%  | 5
 Set speed to 75%  | 7
@@ -55,7 +55,7 @@ Thrust backward | ↓ Down arrow
 Action                    | Primary bind  | Secondary bind
 --------------------------|---------------|----------------
 Toggle flight assist      | Numpad 0
-Engine boost              | Delete        | Mouse 5
+Engine boost              | Delete        | 🖱 Mouse 5
 Toggle frame shift drive  | J
 Supercruise               | I
 Toggle orbit lines        | O
@@ -82,8 +82,8 @@ Target next system in route   | K
 
 Action                | Primary bind  | Secondary bind
 ----------------------|---------------|----------------
-Primary fire          | Space         | Mouse 1
-Secondary fire        | Left shift    | Mouse 2
+Primary fire          | Space         | 🖱 Mouse 1
+Secondary fire        | Left shift    | 🖱 Mouse 2
 Cycle next fire group | V
 Deploy hardpoints     | U
 
@@ -122,7 +122,7 @@ Role panel          | 3
 Internal panel      | 4
 Open galaxy map     | N
 Open system map     | M
-Headlook (toggle)   | Mouse 4
+Headlook (toggle)   | 🖱 Mouse 4
 Open discovery      | Right ctrl
 Switch cockpit mode | Right alt
 Enter FSS mode      | P
@@ -151,7 +151,7 @@ Roll right            | → Right arrow
 Pitch up              | ↑ Up arrow
 Pitch down            | ↓ Down arrow
 Vertical thrusters    | R
-Primary fire          | Space         | Mouse 1
+Primary fire          | Space         | 🖱 Mouse 1
 Secondary fire        | Left shift
 Handbrake             | X
 Headlights            | Insert

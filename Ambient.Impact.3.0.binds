@@ -715,9 +715,9 @@
 	<DriveAssistDefault Value="0" />
 	<MouseBuggySteeringXMode Value="" />
 	<MouseBuggySteeringXDecay Value="1" />
-	<MouseBuggyRollingXMode Value="Bindings_MouseRoll" />
+	<MouseBuggyRollingXMode Value="" />
 	<MouseBuggyRollingXDecay Value="1" />
-	<MouseBuggyYMode Value="Bindings_MousePitch" />
+	<MouseBuggyYMode Value="" />
 	<MouseBuggyYDecay Value="1" />
 	<SteeringAxis>
 		<Binding Device="{NoDevice}" Key="" />
@@ -739,11 +739,11 @@
 	</BuggyRollAxisRaw>
 	<BuggyRollLeftButton>
 		<Primary Device="Keyboard" Key="Key_LeftArrow" />
-		<Secondary Device="Keyboard" Key="Key_Q" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</BuggyRollLeftButton>
 	<BuggyRollRightButton>
 		<Primary Device="Keyboard" Key="Key_RightArrow" />
-		<Secondary Device="Keyboard" Key="Key_E" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</BuggyRollRightButton>
 	<BuggyPitchAxis>
 		<Binding Device="{NoDevice}" Key="" />
@@ -752,15 +752,15 @@
 	</BuggyPitchAxis>
 	<BuggyPitchUpButton>
 		<Primary Device="Keyboard" Key="Key_UpArrow" />
-		<Secondary Device="Mouse" Key="Pos_Mouse_ZAxis" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</BuggyPitchUpButton>
 	<BuggyPitchDownButton>
 		<Primary Device="Keyboard" Key="Key_DownArrow" />
-		<Secondary Device="Mouse" Key="Neg_Mouse_ZAxis" />
+		<Secondary Device="{NoDevice}" Key="" />
 	</BuggyPitchDownButton>
 	<VerticalThrustersButton>
 		<Primary Device="Keyboard" Key="Key_R" />
-		<Secondary Device="Mouse" Key="Mouse_2" />
+		<Secondary Device="{NoDevice}" Key="" />
 		<ToggleOn Value="0" />
 	</VerticalThrustersButton>
 	<BuggyPrimaryFireButton>

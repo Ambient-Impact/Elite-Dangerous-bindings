@@ -25,8 +25,8 @@ Yaw right  | E
 
 Action        | Primary bind | Secondary bind
 --------------|--------------|---------------
-Thrust left   | Left arrow
-Thrust right  | Right arrow
+Thrust left   | ← Left arrow
+Thrust right  | → Right arrow
 Thrust up     | R
 Thrust down   | F
 
@@ -34,8 +34,8 @@ Thrust down   | F
 
 Action            | Primary bind  | Secondary bind
 ------------------|---------------|-------------------
-Increase throttle | Up arrow      | Mouse scroll up
-Decrease throttle | Down arrow    | Mouse scroll down
+Increase throttle | ↑ Up arrow    | Mouse scroll up
+Decrease throttle | ↓ Down arrow  | Mouse scroll down
 Set speed to 0%   | X
 Set speed to 50%  | 5
 Set speed to 75%  | 7
@@ -45,10 +45,10 @@ Set speed to 100% | 0
 
 Action          | Primary bind  | Secondary bind
 ----------------|---------------|----------------
-Thrust left     | Left arrow
-Thrust right    | Right arrow
-Thrust forward  | Up arrow
-Thrust backward | Down arrow
+Thrust left     | ← Left arrow
+Thrust right    | → Right arrow
+Thrust forward  | ↑ Up arrow
+Thrust backward | ↓ Down arrow
 
 ## Flight miscellaneous
 

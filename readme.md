@@ -138,3 +138,43 @@ UI panel right      | D
 UI panel select     | Space
 Next panel tab      | E
 Previous panel tab  | Q
+
+## Driving
+
+Action                | Primary bind  | Secondary bind
+----------------------|---------------|----------------
+Drive assist          | Numpad 0
+Steering left         | A
+Steering right        | D
+Roll left             | ← Left arrow
+Roll right            | → Right arrow
+Pitch up              | ↑ Up arrow
+Pitch down            | ↓ Down arrow
+Vertical thrusters    | R
+Primary fire          | Space         | Mouse 1
+Secondary fire        | Left shift
+Handbrake             | X
+Headlights            | Insert
+Toggle turret         | Z
+Cycle next fire group | V
+
+## Driving targeting
+
+Action              | Primary bind  | Secondary bind
+--------------------|---------------|----------------
+Select target ahead | T
+
+## Driving throttle
+
+Action      | Primary bind  | Secondary bind
+------------|---------------|----------------
+Accelerate  | W
+Decelerate  | S
+
+## Driving miscellaneous
+
+Power distribution and cargo scoop same as [Miscellaneous](#miscellaneous) section above.
+
+## Driving mode switches
+
+Same as [Mode switches](#mode-switches) section above.

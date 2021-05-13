@@ -178,3 +178,80 @@ Power distribution and cargo scoop same as [Miscellaneous](#miscellaneous) secti
 ## Driving mode switches
 
 Same as [Mode switches](#mode-switches) section above.
+
+## Multi-crew
+
+Action                          | Primary bind  | Secondary bind
+--------------------------------|---------------|----------------
+Mode toggle                     | Z
+Primary fire                    | Space         | 🖱 Mouse 1
+Secondary fire                  | Left shift    | 🖱 Mouse 2
+Primary utility fire            | R
+Secondary utility fire          | F
+Third-person field of view out  | 🖱 Mouse 5
+Third-person field of view in   | 🖱 Mouse 4
+Cycle cockpit UI forwards       | ↑ Up arrow
+Cycle cockpit UI backwards      | ↓ Down arrow
+
+## Fighter orders
+
+Action          | Primary bind  | Secondary bind
+----------------|---------------|----------------
+Recall fighter  | [
+Attack target   | \` (backtick, under ESC)
+Open orders     | Backspace
+
+## Camera suite
+
+Action              | Primary bind  | Secondary bind
+--------------------|---------------|----------------
+Toggle camera suite | F11
+Previous camera     | Page up
+Next camera         | Page down
+Enter free camera   | C
+
+## Free camera
+
+Action                      | Primary bind  | Secondary bind
+----------------------------|---------------|----------------
+Toggle HUD                  | H
+Increase speed              | Z
+Decrease speed              | X
+Move forwards               | ↑ Up arrow
+Move backwards              | ↓ Down arrow
+Move left                   | ← Left arrow
+Move right                  | → Right arrow
+Move up                     | R
+Move down                   | F
+Pitch up                    | S
+Pitch down                  | W
+Yaw left                    | Q
+Yaw right                   | E
+Roll left                   | A
+Roll right                  | D
+Stabilizer on/off toggle    | Numpad 0
+Ship/camera controls toggle | V
+Attach/detach camera        | B
+Exit free camera            | C
+Zoom/blur toggle            | Backspace
+Increase zoom/focus         | = (beside Backspace)  | + 🖱 Mouse z-axis (scroll forwards)
+Decrease zoom/focus         | - (beside Backspace)  | + 🖱 Mouse z-axis (scroll backwards)
+Increase blur               | Home
+Decrease blur               | End
+
+## Store camera
+
+Action          | Primary bind  | Secondary bind
+----------------|---------------|----------------
+Hold to rotate  | 🖱 Mouse 2
+Zoom in         | = (beside Backspace)
+Zoom out        | - (beside Backspace)
+Store toggle    | P
+
+## Holo-me
+
+Action                | Primary bind  | Secondary bind
+----------------------|---------------|----------------
+Undo                  | Page up
+Redo                  | Page down
+Toggle mouse rotation | 🖱 Mouse 4

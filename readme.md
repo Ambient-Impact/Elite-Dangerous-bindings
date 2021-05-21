@@ -255,3 +255,9 @@ Action                | Primary bind  | Secondary bind
 Undo                  | Page up
 Redo                  | Page down
 Toggle mouse rotation | 🖱 Mouse 4
+
+## Playlist
+
+Action                | Primary bind  | Secondary bind
+----------------------|---------------|----------------
+Play / Pause          | Ctrl + Backspace

@@ -1262,7 +1262,9 @@
 		<Deadzone Value="0.00000000" />
 	</CommanderCreator_Rotation>
 	<GalnetAudio_Play_Pause>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_Backspace">
+			<Modifier Device="Keyboard" Key="Key_LeftControl" />
+		</Primary>
 		<Secondary Device="{NoDevice}" Key="" />
 	</GalnetAudio_Play_Pause>
 	<GalnetAudio_SkipForward>

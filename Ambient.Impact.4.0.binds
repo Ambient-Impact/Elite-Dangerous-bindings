@@ -1046,7 +1046,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</PhotoCameraToggle_Buggy>
 	<PhotoCameraToggle_Humanoid>
-		<Primary Device="Keyboard" Key="Key_F9" />
+		<Primary Device="Keyboard" Key="Key_F11" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</PhotoCameraToggle_Humanoid>
 	<VanityCameraScrollLeft>

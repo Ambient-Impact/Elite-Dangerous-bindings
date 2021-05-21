@@ -1486,6 +1486,13 @@
 		<Secondary Device="{NoDevice}" Key="" />
 		<ToggleOn Value="0" />
 	</HumanoidSprintButton>
+	<HumanoidWalkButton>
+		<Primary Device="Keyboard" Key="Key_LeftControl">
+			<Hold Value="1" />
+		</Primary>
+		<Secondary Device="{NoDevice}" Key="" />
+		<ToggleOn Value="0" />
+	</HumanoidWalkButton>
 	<HumanoidCrouchButton>
 		<Primary Device="Keyboard" Key="Key_LeftShift">
 			<Hold Value="1" />

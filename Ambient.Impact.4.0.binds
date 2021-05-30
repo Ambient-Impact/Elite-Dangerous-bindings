@@ -1509,7 +1509,9 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidPrimaryInteractButton>
 	<HumanoidSecondaryInteractButton>
-		<Primary Device="Keyboard" Key="Key_V" />
+		<Primary Device="Keyboard" Key="Key_E">
+			<Modifier Device="Keyboard" Key="Key_LeftControl" />
+		</Primary>
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSecondaryInteractButton>
 	<HumanoidItemWheelButton>

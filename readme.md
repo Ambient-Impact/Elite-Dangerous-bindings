@@ -254,7 +254,7 @@ Action                | Primary bind  | Secondary bind
 ----------------------|---------------|----------------
 Undo                  | Page up
 Redo                  | Page down
-Toggle mouse rotation | 🖱 Mouse 4
+Toggle mouse rotation | 🖱 Mouse 2
 
 ## Playlist
 

@@ -1275,7 +1275,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</CommanderCreator_Redo>
 	<CommanderCreator_Rotation_MouseToggle>
-		<Primary Device="Mouse" Key="Mouse_4" />
+		<Primary Device="Mouse" Key="Mouse_2" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CommanderCreator_Rotation_MouseToggle>
 	<CommanderCreator_Rotation>

@@ -235,7 +235,7 @@ Attach/detach camera        | B
 Exit free camera            | C
 Zoom/blur toggle            | Backspace
 Increase zoom/focus         | = (beside Backspace)  | + 🖱 Mouse z-axis (scroll forwards)
-Decrease zoom/focus         | - (beside Backspace)  | + 🖱 Mouse z-axis (scroll backwards)
+Decrease zoom/focus         | - (beside Backspace)  | - 🖱 Mouse z-axis (scroll backwards)
 Increase blur               | Home
 Decrease blur               | End
 

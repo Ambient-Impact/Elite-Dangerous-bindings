@@ -715,9 +715,9 @@
 	<DriveAssistDefault Value="0" />
 	<MouseBuggySteeringXMode Value="" />
 	<MouseBuggySteeringXDecay Value="1" />
-	<MouseBuggyRollingXMode Value="Bindings_MouseRoll" />
+	<MouseBuggyRollingXMode Value="" />
 	<MouseBuggyRollingXDecay Value="1" />
-	<MouseBuggyYMode Value="Bindings_MousePitch" />
+	<MouseBuggyYMode Value="" />
 	<MouseBuggyYDecay Value="1" />
 	<SteeringAxis>
 		<Binding Device="{NoDevice}" Key="" />

@@ -1607,8 +1607,8 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidToggleFlashlightButton>
 	<HumanoidToggleNightVisionButton>
-		<Primary Device="Keyboard" Key="Key_End" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_V" />
+		<Secondary Device="Keyboard" Key="Key_End" />
 	</HumanoidToggleNightVisionButton>
 	<HumanoidToggleShieldsButton>
 		<Primary Device="Keyboard" Key="Key_X" />

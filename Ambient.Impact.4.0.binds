@@ -1595,7 +1595,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidHideWeaponButton>
 	<HumanoidSelectNextGrenadeTypeButton>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_C" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSelectNextGrenadeTypeButton>
 	<HumanoidSelectPreviousGrenadeTypeButton>

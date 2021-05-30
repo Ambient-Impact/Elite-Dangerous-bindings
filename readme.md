@@ -261,3 +261,29 @@ Toggle mouse rotation | 🖱 Mouse 2
 Action                | Primary bind  | Secondary bind
 ----------------------|---------------|----------------
 Play / Pause          | Ctrl + Backspace
+
+## Full spectrum system scanner (FSS)
+
+Action                | Primary bind  | Secondary bind
+----------------------|---------------|----------------
+Zoom in to target     | W
+Zoom out              | S
+Stepped zoom in       | + 🖱 Mouse z-axis (scroll forwards)
+Stepped zoom out      | - 🖱 Mouse z-axis (scroll backwards)
+Tuning left           | A
+Tuning right          | D
+Discovery scan (honk) | Space
+Leave FSS             | X
+Target current signal | T
+Show help             | H
+
+## Detailed surface scanner (DSS)
+
+Action                  | Primary bind  | Secondary bind
+------------------------|---------------|----------------
+Toggle front/back view  | F
+Exit DSS                | X
+Next filter             | E
+Previous filter         | Q
+Field of view in        | + 🖱 Mouse z-axis (scroll forwards)
+Field of view out       | - 🖱 Mouse z-axis (scroll backwards)

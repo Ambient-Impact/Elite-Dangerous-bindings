@@ -1579,7 +1579,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSelectSecondaryWeaponButton>
 	<HumanoidSelectUtilityWeaponButton>
-		<Primary Device="Keyboard" Key="Key_3" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSelectUtilityWeaponButton>
 	<HumanoidSelectNextWeaponButton>
@@ -1614,12 +1614,36 @@
 		<Primary Device="Keyboard" Key="Key_X" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidToggleShieldsButton>
-	<HumanoidSwitchToRechargeTool>
+	<HumanoidClearAuthorityLevel>
 		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HumanoidClearAuthorityLevel>
+	<HumanoidHealthPack>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HumanoidHealthPack>
+	<HumanoidBattery>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HumanoidBattery>
+	<HumanoidSelectFragGrenade>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HumanoidSelectFragGrenade>
+	<HumanoidSelectEMPGrenade>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HumanoidSelectEMPGrenade>
+	<HumanoidSelectShieldGrenade>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</HumanoidSelectShieldGrenade>
+	<HumanoidSwitchToRechargeTool>
+		<Primary Device="Keyboard" Key="Key_3" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSwitchToRechargeTool>
 	<HumanoidSwitchToCompAnalyser>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_5" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSwitchToCompAnalyser>
 	<HumanoidSwitchToSuitTool>

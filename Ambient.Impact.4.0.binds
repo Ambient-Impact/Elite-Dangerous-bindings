@@ -1487,9 +1487,7 @@
 		<ToggleOn Value="0" />
 	</HumanoidSprintButton>
 	<HumanoidWalkButton>
-		<Primary Device="Keyboard" Key="Key_LeftControl">
-			<Hold Value="1" />
-		</Primary>
+		<Primary Device="Keyboard" Key="Key_Space" />
 		<Secondary Device="{NoDevice}" Key="" />
 		<ToggleOn Value="0" />
 	</HumanoidWalkButton>
@@ -1559,7 +1557,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidThrowGrenadeButton>
 	<HumanoidMeleeButton>
-		<Primary Device="Keyboard" Key="Key_Space" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidMeleeButton>
 	<HumanoidReloadButton>

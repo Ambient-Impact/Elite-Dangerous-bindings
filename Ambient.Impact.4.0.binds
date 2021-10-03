@@ -1590,11 +1590,11 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSelectPreviousWeaponButton>
 	<HumanoidHideWeaponButton>
-		<Primary Device="Keyboard" Key="Key_H" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="Mouse" Key="Mouse_5" />
 	</HumanoidHideWeaponButton>
 	<HumanoidSelectNextGrenadeTypeButton>
-		<Primary Device="Keyboard" Key="Key_C" />
+		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSelectNextGrenadeTypeButton>
 	<HumanoidSelectPreviousGrenadeTypeButton>
@@ -1654,7 +1654,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidToggleToolModeButton>
 	<HumanoidToggleMissionHelpPanelButton>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_H" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidToggleMissionHelpPanelButton>
 	<GalaxyMapOpen_Humanoid>

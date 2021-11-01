@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Root PresetName="Ambient.Impact" MajorVersion="4" MinorVersion="0">
-	<KeyboardLayout>en-US</KeyboardLayout>
+	<KeyboardLayout>en-CA</KeyboardLayout>
 	<MouseXMode Value="" />
 	<MouseXDecay Value="0" />
 	<MouseYMode Value="" />
@@ -1007,7 +1007,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</MultiCrewCockpitUICycleBackward>
 	<OrderRequestDock>
-		<Primary Device="Keyboard" Key="Key_BackSlash" />
+		<Primary Device="Keyboard" Key="Key_LessThan" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</OrderRequestDock>
 	<OrderDefensiveBehaviour>
@@ -1019,11 +1019,11 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</OrderAggressiveBehaviour>
 	<OrderFocusTarget>
-		<Primary Device="Keyboard" Key="Key_Grave" />
+		<Primary Device="Keyboard" Key="Key_Hash" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</OrderFocusTarget>
 	<OrderHoldFire>
-		<Primary Device="Keyboard" Key="Key_RightBracket" />
+		<Primary Device="Keyboard" Key="Key_¸" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</OrderHoldFire>
 	<OrderHoldPosition>
@@ -1098,6 +1098,10 @@
 		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</VanityCameraNine>
+	<VanityCameraTen>
+		<Primary Device="{NoDevice}" Key="" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</VanityCameraTen>
 	<FreeCamToggleHUD>
 		<Primary Device="Keyboard" Key="Key_H" />
 		<Secondary Device="{NoDevice}" Key="" />
@@ -1635,7 +1639,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSelectEMPGrenade>
 	<HumanoidSelectShieldGrenade>
-		<Primary Device="Keyboard" Key="Key_Grave" />
+		<Primary Device="Keyboard" Key="Key_Hash" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidSelectShieldGrenade>
 	<HumanoidSwitchToRechargeTool>

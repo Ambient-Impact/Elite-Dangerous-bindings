@@ -70,10 +70,10 @@ Cycle next target             | G
 Select highest threat         | H
 Cycle next hostile target     | Tab
 Cycle previous hostile target | Right shift
-Select wingman 1              | Numpad 1
-Select wingman 2              | Numpad 2
-Select wingman 3              | Numpad 3
-Select wingman's target       | Y
+Select teammate 1             | Numpad 1
+Select teammate 2             | Numpad 2
+Select teammate 3             | Numpad 3
+Select teammate's target      | Y
 Cycle next subsystem          | .
 Cycle previous subsystem      | ,
 Target next system in route   | K

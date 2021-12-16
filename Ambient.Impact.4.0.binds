@@ -1727,35 +1727,35 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</StoreToggle>
 	<HumanoidEmoteSlot1>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_P" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot1>
 	<HumanoidEmoteSlot2>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_U" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot2>
 	<HumanoidEmoteSlot3>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_Y" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot3>
 	<HumanoidEmoteSlot4>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_J" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot4>
 	<HumanoidEmoteSlot5>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_K" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot5>
 	<HumanoidEmoteSlot6>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_I" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot6>
 	<HumanoidEmoteSlot7>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_L" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot7>
 	<HumanoidEmoteSlot8>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_O" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</HumanoidEmoteSlot8>
 </Root>

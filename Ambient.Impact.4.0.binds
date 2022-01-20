@@ -555,11 +555,11 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</UI_Select>
 	<UI_Back>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_Z" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</UI_Back>
 	<UI_Toggle>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_T" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</UI_Toggle>
 	<CycleNextPanel>
@@ -571,11 +571,11 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</CyclePreviousPanel>
 	<CycleNextPage>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_RightArrow" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CycleNextPage>
 	<CyclePreviousPage>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_LeftArrow" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</CyclePreviousPage>
 	<MouseHeadlook Value="1" />

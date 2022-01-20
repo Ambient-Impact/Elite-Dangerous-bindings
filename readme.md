@@ -136,8 +136,14 @@ UI panel down       | S
 UI panel left       | A
 UI panel right      | D
 UI panel select     | Space
+UI back             | Z
+UI nested toggle¹   | T
 Next panel tab      | E
 Previous panel tab  | Q
+Next page           | → Right arrow
+Previous page       | ← Left arrow
+
+¹ The main use for this seems to be to toggle ship details in the Odyssey shipyard.
 
 ## Driving
 

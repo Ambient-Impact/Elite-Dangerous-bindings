@@ -1,5 +1,7 @@
 The ship and SRV controls are almost entirely keyboard with the mouse just for headlook and camera. The on foot controls are optimized for [my 20-year plus experience with first-person shooters](https://www.youtube.com/watch?v=a1vCPftpeq0).
 
+Note that I play Odyssey exclusively now so while I try to keep the Horizons controls in sync with any changes from Odyssey, this is not guaranteed.
+
 o7
 
 # Installation

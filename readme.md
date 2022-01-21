@@ -1,4 +1,4 @@
-My Elite Dangerous bindings. I mostly play using the keyboard, with the mouse for headlook.
+The ship and SRV controls are almost entirely keyboard with the mouse just for headlook and camera. The on foot controls are optimized for [my 20-year plus experience with first-person shooters](https://www.youtube.com/watch?v=a1vCPftpeq0).
 
 o7
 
@@ -6,7 +6,7 @@ o7
 
 Place in ```C:\Users\<user name>\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings```
 
-Note that the game won't recognize the new bindings if it's already running, so do this before you start the game or restart it if it's already running.
+Note that the game won't recognize the new controls if it's already running, so do this before you start the game or restart it if it's already running.
 
 # Controls
 
@@ -335,4 +335,60 @@ Same as [Ship controls/Mode switches](#mode-switches) section above.
 
 ## On foot controls
 
-TBD
+### On foot
+
+Action                    | Primary bind  | Secondary bind
+--------------------------|---------------|----------------
+Move forward              | W
+Move backward             | S
+Strafe left               | A
+Strafe right              | D
+Sprint                    | T (hold)
+Walk                      | Space (toggle)
+Crouch                    | Shift (hold)
+Jump                      | 🖱 Mouse 2
+Interact                  | E
+Secondary interact        | Left ctrl + E
+Open item wheel           | Q (hold)
+Open emote wheel          | Tab
+Fire weapon/use tool      | 🖱 Mouse 1
+Throw grenade             | G
+Reload                    | R
+Select primary weapon     | 1
+Select secondary weapon   | 2
+Holster weapon            |              | 🖱 Mouse 5
+Toggle flashlight         | F
+Toggle night vision       | V            | End
+Toggle shields            | X
+Select EMP grenade        | C
+Select shield grenade     | \` (backtick, under ESC)
+Select Energylink         | 3
+Select Profile Analyser   | 5
+Select suit specific tool | 4
+Toggle tool mode          | R
+Toggle help               | H
+
+### On foot mode switches
+
+Action                    | Primary bind  | Secondary bind
+--------------------------|---------------|----------------
+Open galaxy map           | N
+Open system map           | M
+Comms panel               | Enter
+Open Insight Hub          | Z
+Open conflict zone stats  |
+
+### On foot emotes
+
+These are primarly set up for use in the camera suite, and not during usual gameplay - though you're welcome to try.
+
+Action    | Primary bind  | Secondary bind
+----------|---------------|----------------
+Point     | P
+Wave      | U
+Agree     | Y
+Disagree  | J
+Go        | K
+Stop      | I
+Applaud   | L
+Salute    | O

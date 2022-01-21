@@ -328,7 +328,7 @@ Decelerate  | S
 
 ### Driving miscellaneous
 
-Power distribution and cargo scoop same as [Miscellaneous](#miscellaneous) section above.
+Power distribution and cargo scoop same as [Ship controls/Miscellaneous](#miscellaneous) section above.
 
 ### Driving mode switches
 

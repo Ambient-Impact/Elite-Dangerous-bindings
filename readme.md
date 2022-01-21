@@ -45,7 +45,20 @@ Previous page       | ← Left arrow
 
 ### Galaxy map
 
-TBD
+Action              | Primary bind  | Secondary bind
+--------------------|---------------|----------------
+Pitch up            | T
+Pitch down          | G
+Yaw left            | Q
+Yaw right           | E
+Translate forward   | W
+Translate backward  | S
+Translate left      | A
+Translate right     | D
+Translate up        | R
+Translate down      | F
+Zoom in             | Z
+Zoom out            | X
 
 ### Camera suite
 
